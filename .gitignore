@@ -1,0 +1,5 @@
+build
+raylib
+.vscode
+*.exe
+*.a
